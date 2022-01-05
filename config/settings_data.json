@@ -16,8 +16,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-2",
+              "text": "en sah",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
