@@ -247,7 +247,8 @@
             },
             "link": {
               "label": "Lien"
-            }
+            },
+            "checkbox": "dah checkbox"
           }
         }
       }
